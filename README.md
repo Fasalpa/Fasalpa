@@ -19,10 +19,9 @@ https://github.com/Fasalpa
     experiencia en sistemas y enseñanza 👨🏽‍🏫
   </p>
 
-## Experiencia de trabajo
 
-#### Independiente
-
+<h2 align="left">Experiencia de trabajo</h2>
+    
 <h4 align="left">Independiente</h4>
 
 <p>
