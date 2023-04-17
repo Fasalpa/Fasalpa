@@ -12,6 +12,7 @@ https://github.com/Fasalpa
     align="right"
     alt="Computador iuriCode"
   />
+ 
 
   <p align="left">
     Soy estudiante Full Stack Developer con JavaScript en Platzi, tecnólogo en
@@ -74,6 +75,6 @@ https://github.com/Fasalpa
 | Téc. Sistemas <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/2090px-Sena_Colombia_logo.svg.png" width="50px" height="50px"/> | Undefined Academy <br><img src="https://undefined.sh/content/images/2022/11/Color-invert-blackPearl--Direction-horizontal.png" width="150px" height="40px"/> | Inglés  |
 |                                                                                                                                                                               | Producción Musical <br> <img src="https://dnamusic.edu.co/wp-content/uploads/2022/05/dna-logo-blanco.png" width="100px" height="40px"/>                      |
 
-| **stats** | **languages** |
+| **Estadisticas** | **lenguages** |
 |---|---|
 | ![Fasalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasalpa&show_icons=true&theme=dracula) | [![Fasalpa](https://github-readme-stats.vercel.app/api/top-langs/?username=Fasalpa&layout=compact&theme=radical)](https://github.com/Fasalpa/github-readme-stats) |
