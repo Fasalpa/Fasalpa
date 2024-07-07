@@ -15,7 +15,7 @@ https://github.com/Fasalpa
  
 
   <p align="left">
-    Soy estudiante Full Stack Developer con JavaScript en Platzi, tecnólogo en
+    Soy estudiante Full Stack Developer con JavaScript en Platzi | estudiante de Desarrollador web en Alura Oracle, tecnólogo en
     Gestión de Redes de Datos 📡 y técnico en sistemas 👨🏽‍💻 con 6 años de
     experiencia en sistemas y enseñanza 👨🏽‍🏫
   </p>
@@ -44,17 +44,9 @@ https://github.com/Fasalpa
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/fabian-salamanca-p/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 </div>
 
@@ -72,7 +64,7 @@ https://github.com/Fasalpa
 | Edu. superior/técnica                                                                                                                                                         | Edu. Complementaria                                                                                                                                          | Idiomas |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
 | Tecnlg. GRD <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/2090px-Sena_Colombia_logo.svg.png" width="50px" height="50px"/>    | Full Stack Developer <br><img src="https://static.platzi.com/static/images/footer/logo.png" width="130px" height="50px"/>                                    | Español |
-| Téc. Sistemas <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/2090px-Sena_Colombia_logo.svg.png" width="50px" height="50px"/> | Undefined Academy <br><img src="https://undefined.sh/content/images/2022/11/Color-invert-blackPearl--Direction-horizontal.png" width="150px" height="40px"/> | Inglés  |
+| Téc. Sistemas <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/2090px-Sena_Colombia_logo.svg.png" width="50px" height="50px"/> | Alura Oracle next education <br><img src="https://www.oracle.com/a/ocom/img/rc56-customerlogo-alura-latam.png" width="150px" height="40px"/> | Inglés  |
 |                                                                                                                                                                               | Producción Musical <br> <img src="https://dnamusic.edu.co/wp-content/uploads/2022/05/dna-logo-blanco.png" width="100px" height="40px"/>                      |
 
 | **Estadisticas** | **lenguages** |
