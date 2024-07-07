@@ -6,16 +6,16 @@ https://github.com/Fasalpa
 
 <img
     src="https://i.ibb.co/hdKY1k5/laptop-electronic-portable-computer-notebook-line-pop-art-potrait-logo-colorful-design-illustration.png"
-    min-width="400px"
-    max-width="400px"
-    width="400px"
+    min-width="300px"
+    max-width="500px"
+    width="450px"
     align="right"
     alt="Computador iuriCode"
   />
  
 
   <p align="left">
-    Soy estudiante Full Stack Developer con JavaScript en Platzi | estudiante de Desarrollador web en Alura Oracle, tecnólogo en
+    Soy estudiante Full Stack Developer con JavaScript en Platzi | Estudiante de Desarrollador web en Alura Oracle, tecnólogo en
     Gestión de Redes de Datos 📡 y técnico en sistemas 👨🏽‍💻 con 6 años de
     experiencia en sistemas y enseñanza 👨🏽‍🏫
   </p>
