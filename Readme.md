@@ -15,7 +15,7 @@ https://github.com/Fasalpa
  
 
   <p align="left">
-    Soy estudiante Full Stack Developer con JavaScript en Platzi | Estudiante de Desarrollador web en Alura Oracle, tecnólogo en
+    Soy estudiante Full Stack Developer con JavaScript en Platzi | Estudiante de Desarrollo Back-end Java en Alura Oracle, tecnólogo en
     Gestión de Redes de Datos 📡 y técnico en sistemas 👨🏽‍💻 con 6 años de
     experiencia en sistemas y enseñanza 👨🏽‍🏫
   </p>
