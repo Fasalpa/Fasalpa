@@ -70,3 +70,9 @@ https://github.com/Fasalpa
 | **Estadisticas** | **lenguages** |
 |---|---|
 | ![Fasalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasalpa&show_icons=true&theme=dracula) | [![Fasalpa](https://github-readme-stats.vercel.app/api/top-langs/?username=Fasalpa&layout=compact&theme=radical)](https://github.com/Fasalpa/github-readme-stats) |
+
+<div align="center">
+<h2>Apoyos</h2>
+<p><a href="https://buymeacoffee.com/Fasalpa"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
+</div>
+
