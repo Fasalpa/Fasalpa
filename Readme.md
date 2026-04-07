@@ -15,7 +15,7 @@ https://github.com/Fasalpa
  
 
   <p align="left">
-    Soy estudiante de Ing. de Sistemas | Full Stack Developer con JavaScript en Platzi | Estudiante de Desarrollo Back-end Java en Alura Oracle, tecnólogo en
+    Soy estudiante de Ing. de Sistemas | Estudiante de Desarrollo FullStack Java en Generación Colombia | Full Stack Developer con JavaScript en Platzi, tecnólogo en
     Gestión de Redes de Datos 📡 y técnico en sistemas 👨🏽‍💻 con 6 años de
     experiencia en sistemas y docencia 👨🏽‍🏫
   </p>
