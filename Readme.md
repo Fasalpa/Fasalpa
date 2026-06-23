@@ -29,6 +29,18 @@ He complementado mi aprendizaje en Generation Colombia y Platzi, y cuento con ex
 
 ---
 
+## 🌐 Portafolio
+
+<div align="center">
+
+<a href="https://fasalpa.github.io/Portafolio-FaSalPa">
+  <img src="https://img.shields.io/badge/Ver%20Portafolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## 🎓 Educación
 
 | Formación | Complementaria | Idiomas |
