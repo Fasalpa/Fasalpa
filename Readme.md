@@ -46,7 +46,7 @@ He complementado mi aprendizaje en Generation Colombia y Platzi, y cuento con ex
 | Formación | Complementaria | Idiomas |
 |---|---|---|
 | Ingeniería de Sistemas (UNAD) <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Logo_de_la_UNAD.svg/512px-Logo_de_la_UNAD.svg.png" width="110px"/> | Full Stack JavaScript (Platzi) <br><img src="https://static.platzi.com/static/images/footer/logo.png" width="120px"/> | Español |
-| Tecnólogo en Gestión de Redes de Datos (SENA) <br><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Sena_Colombia_logo.svg" width="60px"/> | Desarrollador Full Stack Java (Generation Colombia) <br><img src="https://colombia.generation.org/wp-content/uploads/2021/09/Generation_Colombia_logo_NEW-BLUE.svg" width="140px"/> | Inglés |
+| Tecnólogo en Gestión de Redes de Datos (SENA) <br><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Sena_Colombia_logo.svg" width="60px"/> | Desarrollador Full Stack Java (Generation Colombia) <br><img src="https://colombia.generation.org/wp-content/uploads/2021/09/Generation_Colombia_logo_NEW-BLUE.svg" width="140px"/> | Inglés B1 |
 | Técnico en Sistemas (SENA) <br><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Sena_Colombia_logo.svg" width="60px"/> | Producción Musical <br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa99PrS_Oi0vH2s2hlPvHzG84pI0DxMdHcRw&s" width="90px"/> | |
 
 ---
